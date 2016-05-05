@@ -3,7 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
         <id>jQuery.PEPJS</id>
-        <title>jQuery.PEP</title>
+        <title>jQuery.PEPJS</title>
         <version>0.4.1</version>
         <authors>Michael W. Powell</authors>
         <owners>mwpowellhtx</owners>
