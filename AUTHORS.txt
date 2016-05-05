@@ -23,3 +23,4 @@ Stefan Neubert <dev@steditor.net>
 Jörn Zaefferer <joern.zaefferer@gmail.com>
 Marius Stefan Bethge <marius.bethge@gmail.com>
 Rob Larsen <rob@htmlcssjavascript.com>
+Michael W. Powell <mwpowellhtx@gmail.com>
