@@ -8,3 +8,5 @@ packages/
 _ReSharper.Caches/
 
 *.suo
+*.user
+*.nupkg
